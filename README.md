@@ -8,9 +8,9 @@ This is something that could be used for web accessiblity in automatically gener
 
 If you are familiar with Python and know what you're doing
 
-First go here - https://huggingface.co/docs/transformers/installation
+First go to [Hugging Face](https://huggingface.co/docs/transformers/installation)
 
-Once that's setup go here - https://huggingface.co/nlpconnect/vit-gpt2-image-captioning
+Once that's setup go [this project](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)
 
 Here's some examples
 
@@ -21,6 +21,15 @@ Gives the following description
 ```
 cat.jpg
 ['a cat sitting on top of a white surface']
+```
+
+Or
+
+![Picture of a pained skull](skull.jpg)
+
+```
+skull.jpg
+['a painting of a person with a face painted on it']
 ```
 
 ## In Depth Setup (My Struggle!)
