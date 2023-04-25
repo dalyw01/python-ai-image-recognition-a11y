@@ -8,9 +8,8 @@ This is something that could be used for web accessiblity in automatically gener
 
 If you are familiar with Python and know what you're doing
 
-First go to [Hugging Face](https://huggingface.co/docs/transformers/installation)
-
-Once that's setup go [this project](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)
+- First go to [Hugging Face](https://huggingface.co/docs/transformers/installation)
+- Once that's setup go to [this project](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)
 
 Here's some examples
 
@@ -54,5 +53,5 @@ banana.jpg
 
 ## In Depth Setup (My Struggle!)
 
-This is if you are NOT familiar with Python and captures my struggle setting up this project!
+[Here](https://docs.google.com/document/d/1fLyMuJouQoCHzx3oTSnMZfqhgY2UOkaZyjvBfbJYWzA/edit?usp=sharing) is if you are NOT familiar with Python and captures my journey setting up this project!
 
