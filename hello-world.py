@@ -45,10 +45,9 @@ print(predict_step(['cat.jpg','laurence.jpg','skull.jpg','banana.jpg','chair.jpg
 
 print('\n+ - - - - - - - - - - - - - - - - - - - - - - - - +\n')
 
+# be wary of .DS_store breaking the script
+
 for filename in os.listdir('images'):
-    if filename == ".DS_Store":
-      print('Skipping OS file for displaying thumbnails!')
-    else:
       print(filename)
       print(predict_step([filename]))
 
