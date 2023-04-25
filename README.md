@@ -44,7 +44,7 @@ skull.jpg
 ['a painting of a person with a face painted on it']
 ```
 
-![Picture of a bundle of bananas](bananas.jpg)
+![Picture of a bundle of bananas](banana.jpg)
 
 ```
 banana.jpg
