@@ -23,14 +23,34 @@ cat.jpg
 ['a cat sitting on top of a white surface']
 ```
 
-Or
+![Picture of an old woman in batman gear](/images/bat_grandmother.jpg)
 
-![Picture of a pained skull](skull.jpg)
+```
+bat_grandmother.jpg
+['a woman wearing a mask and holding a stuffed animal']
+```
+
+![Picture of an old woman in batman gear](/images/baby_penguin.jpg)
+
+```
+baby_penguin.jpg
+['a white and black penguin standing in the snow']
+```
+
+![Picture of a painted skull](skull.jpg)
 
 ```
 skull.jpg
 ['a painting of a person with a face painted on it']
 ```
+
+![Picture of a bundle of bananas](bananas.jpg)
+
+```
+banana.jpg
+['bananas sitting on top of each other']
+```
+
 
 ## In Depth Setup (My Struggle!)
 
