@@ -1,4 +1,3 @@
-
 from transformers import VisionEncoderDecoderModel, ViTImageProcessor, AutoTokenizer
 import torch
 import os # I added this in
@@ -45,10 +44,11 @@ print(predict_step(['cat.jpg','laurence.jpg','skull.jpg','banana.jpg','chair.jpg
 
 print('\n+ - - - - - - - - - - - - - - - - - - - - - - - - +\n')
 
-# be wary of .DS_store breaking the script
+# be wary of .DS_Store from the OS loading if you check inside the images directory
 
 for filename in os.listdir('images'):
-      print(filename)
-      print(predict_step([filename]))
+  print(filename)
+  print(predict_step([filename]))
 
-# print(predict_step(['cat.jpg']))
+print('\n+ - - - - - - - - - - - - - - - - - - - - - - - - +\n')
+
