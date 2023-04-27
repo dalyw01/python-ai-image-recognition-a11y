@@ -13,7 +13,7 @@ If you are familiar with Python and know what you're doing
 
 Here's some examples
 
-![Picture of a cat with a white background](cat.jpg)
+![Picture of a cat with a white background](/images/cat.jpg)
 
 Gives the following description
 
@@ -36,14 +36,14 @@ baby_penguin.jpg
 ['a white and black penguin standing in the snow']
 ```
 
-![Picture of a painted skull](skull.jpg)
+![Picture of a painted skull](/images/skull.jpg)
 
 ```
 skull.jpg
 ['a painting of a person with a face painted on it']
 ```
 
-![Picture of a bundle of bananas](banana.jpg)
+![Picture of a bundle of bananas](/images/banana.jpg)
 
 ```
 banana.jpg
