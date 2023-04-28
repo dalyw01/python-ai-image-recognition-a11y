@@ -51,7 +51,3 @@ banana.jpg
 ```
 
 
-## In Depth Setup (My Struggle!)
-
-[Here](https://docs.google.com/document/d/1fLyMuJouQoCHzx3oTSnMZfqhgY2UOkaZyjvBfbJYWzA/edit?usp=sharing) is if you are NOT familiar with Python and captures my journey setting up this project!
-
